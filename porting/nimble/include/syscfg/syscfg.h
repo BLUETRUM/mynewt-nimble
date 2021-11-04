@@ -927,7 +927,7 @@
 
 /*** @apache-mynewt-nimble/nimble/transport/socket */
 #ifndef MYNEWT_VAL_BLE_ACL_BUF_COUNT
-#define MYNEWT_VAL_BLE_ACL_BUF_COUNT (24)
+#define MYNEWT_VAL_BLE_ACL_BUF_COUNT (4)
 #endif
 
 #ifndef MYNEWT_VAL_BLE_ACL_BUF_SIZE

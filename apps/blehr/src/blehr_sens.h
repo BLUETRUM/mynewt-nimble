@@ -22,6 +22,7 @@
 
 #include "nimble/ble.h"
 #include "modlog/modlog.h"
+#include "console/console.h"
 
 #ifdef __cplusplus
 extern "C" {
